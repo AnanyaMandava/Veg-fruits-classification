@@ -1,45 +1,8 @@
 # Fruits-and-Vegetable-Classification
 Fruits and Vegetables Classification
 
-# 255-FinalProject
-## Team 11  Fruits-Vegetables Classification [ Algorithm Track ]
-
 ## Details
 - Dataset : https://www.kaggle.com/datasets/moltean/fruits
-- Colab  [also included file in github]: 
-
- https://colab.research.google.com/drive/1FFO4nRaa9pykluLVfoN5-oqk7oKl5cPf
- https://colab.research.google.com/drive/1lbIuoaMkKtXmO0ntqA7FNzcEKI5eKaSc#scrollTo=ZzsOGnfxJNTt
- https://colab.research.google.com/drive/1nKHMBudOWMqRz3fw2VAQ93m_zO11DNyW
- https://colab.research.google.com/drive/1QgcPHARtYvWzNtTFUoVrbzHrX87SU_O_
- 
-- Video Demo :
-  https://drive.google.com/drive/u/0/folders/1L5-30EpbYdAAIrva-BZyfQGZBSWyDmo4
-
-## Contributors
-### Jaswanth  - Contribution
-
-![image](https://github.com/JaswanthKarangula/Fruits-and-Vegetable-Classification/blob/main/jaswanthcontribution.png?raw=true)
-
-
-
-<hr>
-
-### Pavan Sai - Contribution
-
-![Contribution-Pavan](https://github.com/JaswanthKarangula/Fruits-and-Vegetable-Classification/blob/main/pavancontribution.png?raw=true)
-
-
-<hr>
-
-### Sourya - Contribution
-
-![Contribution-Sourya](https://github.com/JaswanthKarangula/Fruits-and-Vegetable-Classification/blob/main/souryacontribution.png?raw=true)
-
-
-
-
-<hr>
 
 ### About Dataset
            DATASET EXPLANATION
