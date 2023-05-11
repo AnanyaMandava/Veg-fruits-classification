@@ -20,6 +20,8 @@ stands for rotated fruit. ”r2” means that the fruit was
 rotated around the 3rd axis. “100” comes from image
 size (100x100 pixels).
 
+#### Exploratory Data Analysis
+
 
 #### Dataset Distribution
 
