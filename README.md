@@ -20,10 +20,23 @@ stands for rotated fruit. ”r2” means that the fruit was
 rotated around the 3rd axis. “100” comes from image
 size (100x100 pixels).
 
-#### Exploratory Data Analysis
+#### Exploratory Data Analysis for Train Data
 
+![Alt Text](Images/edatraining.jpg)
 
-#### Dataset Distribution
+#### Exploratory Data Analysis for Test Data
+![Alt Text](Images/edatesting.jpg)
+
+#### Pre Training Images of Datatest
+![Alt Text](Images/pretraining.jpg)
+
+####  Testing Model Results
+![Alt Text](Images/posttesting.jpg)
+
+#### How to Run 
+Load the appropriate Model ipynb files into google colab. 
+Provide the kaggle.json file to fetch the data into required format.
+Run the notebook file to train and test the model.
 
 
 ## References
